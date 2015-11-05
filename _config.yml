@@ -1,0 +1,23 @@
+name: embark
+favicon: null
+layout_spectrum: 0.3174636475741863
+typography_spectrum: 0.43668575515039265
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6619214413221925
+  lightness: 0.954924498219043
+  saturation: 0.8130009407177567
+  rhythmicContrast: 0.2511236425489187
+purpose: []
