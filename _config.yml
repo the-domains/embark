@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Our Team
+    url: 'http://www.embarkwithus.com/team/'
+    type: external
 favicon: null
 title: ACCOUNTING / CONSULTING
 description: filling gaps in financial environments
